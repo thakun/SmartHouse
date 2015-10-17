@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/jquery.mobile-1.4.5.min.css" />
+    <script src="js/jquery-2.1.4.min.js"></script>
+    <script src="js/jquery.mobile-1.4.5.min.js"></script>
+    <style>
+        @media all and (max-width: 28em){
+            .ui-grid-a .ui-block-a,
+            .ui-grid-a .ui-block-b {
+                width: 100%;
+                clear: left;
+            }
+        }
+
+        body {
+            background: url(img/SmartHouse.jpg);
+            background-repeat:repeat-y;
+            background-position:center center;
+            background-attachment:scroll;
+            background-size:100% 100%;
+        }
+        #foo.ui-page {
+            background: transparent;
+        }
+        #foo.ui-content{
+            background: transparent;
+        }
+    </style>
+
+    <title></title>
+</head>
+<body>
+
+
+<div data-role="page" id="foo" >
+
+    <div data-role="header" data-position="fixed">
+        <h1>Inicio</h1>
+    </div><!-- /header -->
+
+    <div data-role="content" style="background: transparent">
+        <h2 style="text-align: center; font-size: 72px;">
+            Bienvenidos
+        </h2>
+        <a href="#login" data-role="button" data-theme="b" style="width: 50%; margin: 15% auto;">Iniciar</a>
+    </div><!-- /content -->
+
+    <div data-role="footer" data-position="fixed">
+        <h4></h4>
+    </div><!-- /footer -->
+</div><!-- /page -->
+
+
+<div data-role="page" id="login">
+
+    <div data-role="header" data-position="fixed">
+        <h1>Iniciar Sesion</h1>
+    </div><!-- /header -->
+
+    <div data-role="content">
+        <form style="margin: 0 auto;">
+            <input type="password" name="clave" id="clave" placeholder="Clave de acceso" value="" style="width: 50%;">
+
+            <a href="#main" data-role="button" data-icon="check" data-theme="b" style="width: 50%;">Ingresar</a>
+        </form>
+    </div><!-- /content -->
+
+    <div data-role="footer" data-position="fixed">
+        <h4></h4>
+    </div><!-- /footer -->
+</div><!-- /page -->
+
+
+<div data-role="page" id="main">
+
+    <div data-role="header" data-position="fixed">
+        <a href="#foo" data-icon="delete">Cerrar Sesion</a>
+        <h1>Casa Inteligente</h1>
+        <a href="#options" data-icon="gear">Opciones</a>
+    </div><!-- /header -->
+
+    <div data-role="content">
+
+        <div data-role="collapsible-set" data-theme="c" data-content-theme="d" data-collapsed-icon="arrow-r" data-expanded-icon="arrow-d">
+            <div data-role="collapsible">
+                <h3>Puerta</h3>
+                <form>
+                    <div data-role="fieldcontain">
+                        <label for="puerta">Flip toggle switch:</label>
+                        <select name="puerta" id="puerta" data-role="slider">
+                            <option value="off">Cerrado</option>
+                            <option value="on">Abierto</option>
+                        </select>
+                    </div>
+                </form>
+            </div>
+            <div data-role="collapsible">
+                <h3>Ventanas</h3>
+                <form>
+                    <div data-role="fieldcontain">
+                        <div>
+                            <label for="ventana1">Ventana 1:</label>
+                            <select name="ventana1" id="ventana1" data-role="slider">
+                                <option value="off">Cerrado</option>
+                                <option value="on">Abierto</option>
+                            </select>
+                        </div>
+                        <div>
+                            <label for="ventana2">Ventana 2:</label>
+                            <select name="ventana2" id="ventana2" data-role="slider">
+                                <option value="off">Cerrado</option>
+                                <option value="on">Abierto</option>
+                            </select>
+                        </div>
+                        <div>
+                            <label for="ventana3">Ventana 3:</label>
+                            <select name="ventana3" id="ventana3" data-role="slider">
+                                <option value="off">Cerrado</option>
+                                <option value="on">Abierto</option>
+                            </select>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div data-role="collapsible">
+                <h3>Luces</h3>
+                <form>
+                    <div class="ui-grid-a">
+                        <div class="ui-block-a">
+                            <label for="foco1">Foco 1:</label>
+                            <input type="range" name="foco1" id="foco1" data-highlight="true" min="0" max="100" value="50">
+                        </div><!-- /ui-block -->
+                        <div class="ui-block-b">
+                            <select name="foco1sw" id="foco1sw" data-role="slider">
+                                <option value="off">Off</option>
+                                <option value="on">On</option>
+                            </select>
+                        </div><!-- /ui-block -->
+                    </div><!-- /ui-grid -->
+
+
+                    <div class="ui-grid-a">
+                        <div class="ui-block-a">
+                            <label for="foco2">Foco 2:</label>
+                            <input type="range" name="foco2" id="foco2" data-highlight="true" min="0" max="100" value="50">
+                        </div><!-- /ui-block -->
+                        <div class="ui-block-b">
+                            <select name="foco2sw" id="foco2sw" data-role="slider">
+                                <option value="off">Off</option>
+                                <option value="on">On</option>
+                            </select>
+                        </div>
+                    </div>
+
+
+                    <div class="ui-grid-a">
+                        <div class="ui-block-a">
+                            <label for="foco3">Foco 3:</label>
+                            <input type="range" name="foco3" id="foco3" data-highlight="true" min="0" max="100" value="50">
+                        </div><!-- /ui-block -->
+                        <div class="ui-block-b">
+                            <select name="foco3sw" id="foco3sw" data-role="slider">
+                                <option value="off">Off</option>
+                                <option value="on">On</option>
+                            </select>
+                        </div>
+                    </div>
+
+
+                    <div class="ui-grid-a">
+                        <div class="ui-block-a">
+                            <label for="foco4">Foco 4:</label>
+                            <input type="range" name="foco4" id="foco4" data-highlight="true" min="0" max="100" value="50">
+                        </div><!-- /ui-block -->
+                        <div class="ui-block-b">
+                            <select name="foco4sw" id="foco4sw" data-role="slider">
+                                <option value="off">Off</option>
+                                <option value="on">On</option>
+                            </select>
+                        </div>
+                    </div>
+
+
+                    <div class="ui-grid-a">
+                        <div class="ui-block-a">
+                            <label for="foco5">Foco 5:</label>
+                            <input type="range" name="foco5" id="foco5" data-highlight="true" min="0" max="100" value="50">
+                        </div><!-- /ui-block -->
+                        <div class="ui-block-b">
+                            <select name="foco5sw" id="foco5sw" data-role="slider">
+                                <option value="off">Off</option>
+                                <option value="on">On</option>
+                            </select>
+                        </div>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    </div><!-- /content -->
+
+    <div data-role="footer" data-position="fixed">
+        <h4></h4>
+    </div><!-- /footer -->
+
+   </div>
+
+<div data-role="page" id="options">
+
+    <div data-role="header" data-position="fixed">
+        <a href="#main" data-icon="back">Atras</a>
+        <h1>Configuracion</h1>
+    </div><!-- /header -->
+
+    <div data-role="content">
+        <form style="margin: 0 auto;">
+            <input type="password" name="chpass" id="chpass" placeholder="Nueva clave" value="" style="width: 50%;">
+            <input type="password" name="chpass1" id="chpass1" placeholder="Repite la clave" value="" style="width: 50%;">
+
+            <a href="#" data-role="button" data-icon="check" data-theme="b" style="width: 50%; ">Confirmar</a>
+        </form>
+    </div><!-- /content -->
+
+    <div data-role="footer" data-position="fixed">
+        <h4></h4>
+    </div><!-- /footer -->
+</div><!-- /page -->
+
+
+</body>
+</html>
