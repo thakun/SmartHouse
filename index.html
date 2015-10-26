@@ -5,7 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/jquery.mobile-1.4.5.min.css">
     <script src="js/jquery.min.js"></script>
-    <script src="js/jquery.mobile-1.4.5.min.js"></script>
+    <script>
+    $(document).bind('mobileinit',function(){
+    $.mobile.pushStateEnabled = false;
+    });
+    </script>
+        <script src="js/jquery.mobile-1.4.5.min.js"></script>
     <style>
         @media all and (max-width: 28em){
             .ui-grid-a .ui-block-a,
@@ -37,52 +42,60 @@
 
 <div data-role="page" id="foo" >
 
-    <div data-role="header" data-position="fixed">
-        <h1>Inicio</h1>
+    <div data-role="header" data-position="fixed" style="background-color: #22aadd">
+        <h1></h1>
+        <img src="img/logo%20smarthouse_white.fw.png" alt="" height="30" style="top: 5px; position: absolute; right: 115px;">
+        <span style="top: 11px; position: absolute; right: 15px; color: white;">SmartHouse</span>
     </div><!-- /header -->
 
     <div data-role="content" style="background: transparent">
         <h2 style="text-align: center; font-size: 72px;">
             Bienvenidos
         </h2>
-        <a href="#login" data-role="button" data-theme="b" style="width: 50%; margin: 15% auto;">Iniciar</a>
+        <a href="#login" data-role="button" style="width: 15%; margin: 10% auto; background-color: #0088bb; color: white">Iniciar</a>
     </div><!-- /content -->
 
-    <div data-role="footer" data-position="fixed">
-        <h4></h4>
+    <div data-role="footer" data-position="fixed" style="background-color: #0088bb">
+        <h4 style="text-align: right; color: white; font-size: 12px;">Haciendo Realidad Tus Sueños</h4>
     </div><!-- /footer -->
-</div><!-- /page -->
-
+</div>
 
 <div data-role="page" id="login">
 
-    <div data-role="header" data-position="fixed">
-        <h1>Iniciar Sesion</h1>
+    <div data-role="header" data-position="fixed" style="background-color: #22aadd">
+        <h1></h1>
+        <img src="img/logo%20smarthouse_white.fw.png" alt="" height="30" style="top: 5px; position: absolute; right: 115px;">
+        <span style="top: 11px; position: absolute; right: 15px; color: white;">SmartHouse</span>
     </div><!-- /header -->
 
     <div data-role="content">
+
+        <h2>Iniciar Sesion</h2>
+
         <form style="margin: 0 auto;">
             <input type="password" name="clave" id="clave" placeholder="Clave de acceso" value="" style="width: 50%;">
 
-            <a href="#main" data-role="button" data-icon="check" data-theme="b" style="width: 50%;">Ingresar</a>
+            <a href="#main" data-role="button" data-icon="check" style="margin: 0 auto; width: 50%; color: white; background-color: #0088bb">Ingresar</a>
         </form>
     </div><!-- /content -->
 
-    <div data-role="footer" data-position="fixed">
-        <h4></h4>
+    <div data-role="footer" data-position="fixed" style="background-color: #0088bb">
+        <a href="#foo" data-icon="delete" style="left: 10px;">Cancelar</a>
+        <h4 STYLE="bottom: 0; right: 10px; color: white; position: absolute; font-size: 12px;">Haciendo Realidad Tus Sueños</h4>
     </div><!-- /footer -->
-</div><!-- /page -->
-
+</div>
 
 <div data-role="page" id="main">
 
-    <div data-role="header" data-position="fixed">
-        <a href="#foo" data-icon="delete">Cerrar Sesion</a>
-        <h1>Casa Inteligente</h1>
-        <a href="#options" data-icon="gear">Opciones</a>
+    <div data-role="header" data-position="fixed" style="background-color: #22aadd">
+        <h1></h1>
+        <img src="img/logo%20smarthouse_white.fw.png" alt="" height="30" style="top: 5px; position: absolute; right: 115px;">
+        <span style="top: 11px; position: absolute; right: 15px; color: white;">SmartHouse</span>
     </div><!-- /header -->
 
     <div data-role="content">
+
+        <h2 style="text-align: center">Centro de control</h2>
 
         <div data-role="collapsible-set" data-theme="c" data-content-theme="d" data-collapsed-icon="arrow-r" data-expanded-icon="arrow-d">
             <div data-role="collapsible">
@@ -202,32 +215,37 @@
         </div>
     </div><!-- /content -->
 
-    <div data-role="footer" data-position="fixed">
-        <h4></h4>
+    <div data-role="footer" data-position="fixed" style="background-color: #0088bb">
+        <a href="#foo" data-icon="delete" style="margin-left: 10px;">Cerrar Sesion</a>
+        <a href="#options" data-icon="gear" style="right: 10px; position: absolute">Opciones</a>
+        <h4 STYLE="bottom: 0; left: 37%; color: white; position: absolute; font-size: 10px;"></h4>
     </div><!-- /footer -->
 
    </div>
 
 <div data-role="page" id="options">
 
-    <div data-role="header" data-position="fixed">
-        <a href="#main" data-icon="back">Atras</a>
-        <h1>Configuracion</h1>
+    <div data-role="header" data-position="fixed" style="background-color: #22aadd">
+        <h1></h1>
     </div><!-- /header -->
 
     <div data-role="content">
+
+        <h2>Configuracion</h2>
+
         <form style="margin: 0 auto;">
             <input type="password" name="chpass" id="chpass" placeholder="Nueva clave" value="" style="width: 50%;">
             <input type="password" name="chpass1" id="chpass1" placeholder="Repite la clave" value="" style="width: 50%;">
 
-            <a href="#" data-role="button" data-icon="check" data-theme="b" style="width: 50%; ">Confirmar</a>
+            <a href="#" data-role="button" data-icon="check" style="width: 50%; color: white; background-color: #0088bb;">Confirmar</a>
         </form>
     </div><!-- /content -->
 
-    <div data-role="footer" data-position="fixed">
-        <h4></h4>
+    <div data-role="footer" data-position="fixed" style="background-color: #0088bb;">
+        <a href="#main" data-icon="back" style="left: 10px;">Atras</a>
+        <h4 STYLE="bottom: 0; right: 10px; color: white; position: absolute;">Haciendo Realidad Tus Sueños</h4>
     </div><!-- /footer -->
-</div><!-- /page -->
+</div>
 
 
 </body>

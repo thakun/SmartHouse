@@ -1,7 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d62df9b-07dd-4d4c-b87f-95ae69b833bd" name="Default" comment="" />
+    <list default="true" id="5d62df9b-07dd-4d4c-b87f-95ae69b833bd" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/action-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/action-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/action-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/action-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/alert-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/alert-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/alert-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/alert-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/arrow-d-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/arrow-d-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/arrow-d-l-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/arrow-d-l-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/arrow-d-l-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/arrow-d-l-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/arrow-d-r-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/arrow-d-r-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/arrow-d-r-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/arrow-d-r-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/arrow-d-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/arrow-d-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/arrow-l-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/arrow-l-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/arrow-l-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/arrow-l-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/arrow-r-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/arrow-r-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/arrow-r-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/arrow-r-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/arrow-u-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/arrow-u-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/arrow-u-l-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/arrow-u-l-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/arrow-u-l-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/arrow-u-l-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/arrow-u-r-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/arrow-u-r-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/arrow-u-r-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/arrow-u-r-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/arrow-u-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/arrow-u-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/audio-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/audio-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/audio-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/audio-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/back-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/back-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/back-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/back-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/bars-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/bars-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/bars-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/bars-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/bullets-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/bullets-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/bullets-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/bullets-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/calendar-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/calendar-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/calendar-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/calendar-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/camera-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/camera-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/camera-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/camera-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/carat-d-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/carat-d-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/carat-d-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/carat-d-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/carat-l-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/carat-l-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/carat-l-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/carat-l-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/carat-r-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/carat-r-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/carat-r-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/carat-r-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/carat-u-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/carat-u-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/carat-u-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/carat-u-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/check-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/check-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/check-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/check-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/clock-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/clock-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/clock-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/clock-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/cloud-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/cloud-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/cloud-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/cloud-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/comment-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/comment-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/comment-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/comment-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/delete-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/delete-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/delete-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/delete-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/edit-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/edit-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/edit-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/edit-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/eye-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/eye-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/eye-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/eye-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/forbidden-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/forbidden-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/forbidden-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/forbidden-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/forward-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/forward-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/forward-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/forward-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/gear-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/gear-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/gear-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/gear-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/grid-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/grid-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/grid-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/grid-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/heart-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/heart-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/heart-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/heart-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/home-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/home-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/home-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/home-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/info-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/info-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/info-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/info-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.min.js" afterPath="$PROJECT_DIR$/js/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/jquery.mobile-1.4.5.min.css" afterPath="$PROJECT_DIR$/css/jquery.mobile-1.4.5.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.mobile-1.4.5.min.js" afterPath="$PROJECT_DIR$/js/jquery.mobile-1.4.5.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/location-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/location-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/location-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/location-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/lock-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/lock-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/lock-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/lock-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/mail-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/mail-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/mail-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/mail-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/minus-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/minus-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/minus-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/minus-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/navigation-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/navigation-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/navigation-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/navigation-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/phone-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/phone-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/phone-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/phone-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/plus-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/plus-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/plus-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/plus-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/power-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/power-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/power-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/power-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/recycle-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/recycle-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/recycle-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/recycle-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/refresh-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/refresh-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/refresh-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/refresh-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/search-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/search-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/search-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/search-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/shop-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/shop-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/shop-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/shop-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/star-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/star-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/star-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/star-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/tag-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/tag-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/tag-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/tag-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/user-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/user-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/user-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/user-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/video-black.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/video-black.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/images/icons-svg/video-white.svg" afterPath="$PROJECT_DIR$/css/images/icons-svg/video-white.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="SmartHouse.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -25,19 +131,42 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.117753625">
-              <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.6729776">
+              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
               <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#STYLE#0;n#h4#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#STYLE#0;n#h4#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#form#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#input#1;n#form#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#form#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#STYLE#0;n#h4#0;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -51,6 +180,9 @@
         <option value="Html5" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -74,7 +206,7 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -97,8 +229,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -133,6 +263,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -166,10 +298,19 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5d62df9b-07dd-4d4c-b87f-95ae69b833bd" name="Default" comment="" />
@@ -181,26 +322,26 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -211,29 +352,93 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#STYLE#0;n#h4#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#STYLE#0;n#h4#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#form#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#form#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#form#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#STYLE#0;n#h4#0;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/Downloads/jquery.mobile-1.4.5/demos/flipswitch/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.61142856">
           <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.117753625">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.6729776">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
           <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#STYLE#0;n#h4#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#STYLE#0;n#h4#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#form#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#1;n#form#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#form#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#STYLE#0;n#h4#0;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
