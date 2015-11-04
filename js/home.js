@@ -28,7 +28,7 @@ function r() { location.href="#foo" }
 function login(){
     var valores = {username:$("#username").val(),pass:$("#pass").val()};
 
-    alert(valores);
+    alert(valores['username']);
 
     $.post('192.168.43.28/php/pruebasqlite.php',valores).done(function(data,status) {
 
