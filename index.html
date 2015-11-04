@@ -11,7 +11,8 @@
     $.mobile.pushStateEnabled = false;
     });
     </script>
-        <script src="js/jquery.mobile-1.4.5.min.js"></script>
+    <script src="js/jquery.mobile-1.4.5.min.js"></script>
+    <script src="js/home.js"></script>
 
     <style>
         @media all and (max-width: 28em){
@@ -22,13 +23,13 @@
             }
         }
 
-        body {
+        /*body {
             background: url(img/SmartHouse.jpg);
             background-repeat: repeat-y;
             background-position: center center;
             background-attachment: scroll;
             background-size: 100% 100%;
-        }
+        }*/
     </style>
 
     <title></title>
@@ -41,15 +42,15 @@
         <h1></h1>
     </div>
 
-    <div data-role="content" style="margin-top: 80px; position:relative;">
+    <div data-role="content" style="margin-top: 5%;">
 
-        <div style="text-align: center"><img src="img/logo%20smarthouse.fw.png" id="logoG"></div>
+        <div style="text-align: center;"><img src="img/logo%20smarthouse.fw.png" id="logoG"></div>
         
         <h1 style="text-align: center;">
             SmartHouse
         </h1>
 
-        <div style="text-align: center;"><img src="img/loader.gif" style="width: 5%; height: 5%;"></div>
+        <div id="loader" style="text-align: center;"><img  src="img/loader.gif" style="width: 15%; height: 15%;"></div>
     </div>
 
     <div data-role="footer" data-position="fixed" style="background-color: #0088bb">
@@ -91,9 +92,10 @@
         <h2>Iniciar Sesion</h2>
 
         <form style="margin: 0 auto;">
-            <input type="password" name="clave" id="clave" placeholder="Clave de acceso" value="" style="width: 50%;">
+            <input type="text" name="username" id="username" placeholder="Usuario" value="" style="width: 50%;">
+            <input type="password" name="pass" id="pass" placeholder="Contraseña" value="" style="width: 50%;">
 
-            <a href="#main" data-role="button" data-icon="check" style="margin: 0 auto; width: 50%; color: white; background-color: #0088bb">Ingresar</a>
+            <a href="" id="loginBtn" data-role="button" data-icon="check" style="margin: 0 auto; width: 50%; color: white; background-color: #0088bb">Ingresar</a>
         </form>
     </div><!-- /content -->
 
