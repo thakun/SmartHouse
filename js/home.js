@@ -30,7 +30,7 @@ function login(){
 
 
 
-    $.post('php/pruebasqlite.php',valores).done(function(data) {
+    $.post('192.168.42.161/php/pruebasqlite.php',valores).done(function(data) {
         alert(data);
     });
 }
