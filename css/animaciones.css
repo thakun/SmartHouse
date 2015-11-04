@@ -1,0 +1,12 @@
+
+@keyframes rotate1 {
+    from{ transform: rotateY(0deg);}
+    to{ transform: rotateY(360deg);}
+}
+
+#logoG{
+    animation-name: rotate1;
+    animation-duration: 4s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+}
