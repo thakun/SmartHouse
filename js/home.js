@@ -18,7 +18,7 @@ $(window).ready(function(){
     $(window).trigger("orientationchange");
 
     $("#loginBtn").on("click",function(){
-        //alert("hola");
+        alert("hola");
         login();
     });
 });
