@@ -28,7 +28,13 @@ function r() { location.href="#foo" }
 function login(){
     var valores = {username:$("#username").val(),pass:$("#pass").val()};
 
-    $.post('192.168.43.28/php/pruebasqlite.php',valores).done(function(data) {
+    alert(valores);
+
+    $.post('192.168.43.28/php/pruebasqlite.php',valores).done(function(data,status) {
+
+        if(status == "error")
+            alert("error");
+
         alert(data);
     });
 }
