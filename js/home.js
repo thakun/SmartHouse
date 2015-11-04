@@ -30,7 +30,7 @@ function login(){
 
     alert(valores['username']);
 
-    $.post('192.168.43.28/php/pruebasqlite.php',valores).done(function(data,status) {
+    $.post('http://192.168.43.28/SmartHouse/php/pruebasqlite.php',valores).done(function(data,status) {
 
         if(status == "error")
             alert("error");
