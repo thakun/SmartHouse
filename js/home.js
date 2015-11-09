@@ -48,9 +48,6 @@ function login(){
 
     });
 
-
-
-
     /*$.post('http://192.168.43.28/SmartHouse/php/pruebasqlite.php',valores).done(function(data,status) {
 
         if(status == "error")
