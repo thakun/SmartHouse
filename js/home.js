@@ -30,11 +30,15 @@ function login(){
 
     alert(valores['username']);
 
-    $.post('http://192.168.43.28/SmartHouse/php/pruebasqlite.php',valores).done(function(data,status) {
+    $.getJSON('http://192.168.43.28/SmartHouse/php/pruebasqlite.php',valores).done(function (respuesta) {
+        alert(respuesta.mensaje);
+    });
+
+    /*$.post('http://192.168.43.28/SmartHouse/php/pruebasqlite.php',valores).done(function(data,status) {
 
         if(status == "error")
             alert("error");
 
         alert(data);
-    });
+    });*/
 }
