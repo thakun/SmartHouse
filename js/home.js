@@ -30,9 +30,26 @@ function login(){
 
     alert(valores['username']);
 
-    $.getJSON('http://192.168.43.28/SmartHouse/php/pruebasqlite.php',valores).done(function (respuesta) {
-        alert(respuesta.mensaje);
+    $.ajax({
+        type: "POST",
+        url: "http://192.168.43.28/SmartHouse/php/pruebasqlite.php",
+        data: valores,
+        cache: false,
+
+        success: function(resultado){
+            //res = JSON.parse(resultado);
+
+            alert(resultado);
+
+            $.mobile.changePage("#main")
+
+
+        }
+
     });
+
+
+
 
     /*$.post('http://192.168.43.28/SmartHouse/php/pruebasqlite.php',valores).done(function(data,status) {
 
